@@ -1,0 +1,1 @@
+zombies = ds_list_create();
