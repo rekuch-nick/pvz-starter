@@ -8,7 +8,7 @@ function stageZombieSetup(lvl){
 	
 	if(lvl == 1){
 		zAdd(objZombie, -1, 40);
-		repeat(0){
+		repeat(10){
 			zAdd(objZombie, -1, 110);
 			zAdd(objZombie, -1, 40);
 			zAdd(objZombie, -1, 40);
